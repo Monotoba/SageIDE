@@ -10,17 +10,20 @@ Sage IDE represents a groundbreaking leap in software development, seamlessly in
 
 #### Main Workspace
 
-Sage IDE’s main workspace epitomizes user-friendly design, meticulously catering to the multifaceted demands of modern development. An advanced tabbed interface serves as the canvas for coding brilliance, providing a seamless environment for developers to create digital masterpieces. Enhanced by a dynamic "work area," Sage IDE facilitates real-time debugging and output management, ensuring swift troubleshooting and holistic project oversight. The main window is equipped with intuitive menus, including File (New, Open, Save, Close, Exit), Edit (Cut, Copy, Paste, Find, Replace), View (Project, Terminal, Output, Debugger), and Help (Help, About), creating an immersive and intuitive user experience.
+Sage IDE’s main workspace epitomizes user-friendly design, meticulously catering to the multifaceted demands of modern development. An advanced tabbed interface serves as the canvas for coding brilliance, providing a seamless environment for developers to create digital masterpieces. Enhanced by a dynamic "work area," Sage IDE facilitates debugging and output management, ensuring swift troubleshooting and holistic project oversight. The main window is equipped with intuitive menus, including File (New, Open, Save, Close, Exit), Edit (Cut, Copy, Paste, Find, Replace), View (Project, Terminal, Output, Debugger, AI, etc.), and Help (Help, About), creating an immersive and intuitive user experience.
 
 #### Enhanced Features
 
-1. **ToolMenuLeft:** Strategically positioned on the left, ToolMenuLeft houses the "Project View," an interface inspired by industry giants like IntelliJ and VS Code. It provides developers granular control over project structures, fostering efficient collaboration and seamless version control.
+1. **ToolBarTop:** The ToolMenuTop will be used to house various tools that are most used by the developer. This tool bar is positions to rpovide
+conspitous tool options and provide quick access to the developer's most used tools.
 
-2. **ToolMenuRight:** Nestled on the right, ToolMenuRight introduces the "Agent" menu, offering access to AI agent windows. Sage IDE boasts an array of AI roles, each tailored to specific project domains, ranging from product management and technical architecture to quality assurance and user experience design. These specialized agents augment development teams with domain-specific expertise.
+3. **ToolMenuLeft:** Strategically positioned on the left, ToolMenuLeft houses the "Project View," an interface inspired by industry giants like IntelliJ and VS Code. It provides developers granular control over project structures, fostering efficient collaboration and seamless version control.
 
-3. **Toolbar (Bottom):** The bottom of the main window features a versatile toolbar, providing swift access to essential functionalities. Tailored for efficiency, this feature-rich toolbar enhances developers' workflow, boosting productivity and enabling rapid iterations.
+4. **ToolMenuRight:** Nestled on the right, ToolMenuRight introduces the "Agent" menu, offering access to AI agent windows. Sage IDE boasts an array of AI roles, each tailored to specific project domains, ranging from product management and technical architecture to quality assurance and user experience design. These specialized agents augment development teams with domain-specific expertise.
 
-4. **Status Bar:** At the window's base, the Status Bar serves as a hub of information and interactivity. Plugins can register various content, from status updates to tool options and messages, enriching the user experience. This real-time communication hub ensures developers remain informed, facilitating seamless collaboration and empowering developers with actionable insights.
+5. **Toolbar (Bottom):** The bottom of the main window features a versatile toolbar, providing swift access to essential functionalities. Tailored for efficiency, this feature-rich toolbar enhances developers' workflow, boosting productivity and enabling rapid iterations.
+
+6. **Status Bar:** At the window's base, the Status Bar serves as a hub of information and interactivity. Plugins can register various content, from status updates to tool options and messages, enriching the user experience. This real-time communication hub ensures developers remain informed, facilitating seamless collaboration and empowering developers with actionable insights.
 
 #### AI Integration
 
