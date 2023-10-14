@@ -1,4 +1,5 @@
-## Preliminary Draft: 
+## Preliminary Draft:
+Version: 0.0.1
 
 # Sage IDE Project Specification
 
@@ -113,10 +114,12 @@ Sage IDE stands as a testament to adaptability and innovation, laying the founda
 
 In conclusion, the Sage IDE Project Specification redefines the paradigm of software development, merging cutting-edge technology with user-centric design. With its powerful AI integration, flexible plugin architecture, and meticulous development guidelines, Sage IDE stands poised as the ultimate tool for developers, ushering in a new era of innovation and efficiency. Through continuous evolution and strategic enhancements, Sage IDE is not just an IDE; it's an immersive development experience, empowering developers to transform visions into digital masterpieces.
 
+**Documentation and Software Versioning:**
+Sage IDE shall adhere to semantic versioning for all files and artifacts. Documentation is versioned in sync with the software, ensuring alignment between software features and corresponding documentation updates.
+
 **Preliminary Draft: Sage IDE Project Specification**  
-*F.A.N.G. Company Name*  
-*[Your Name]*  
-*[Your Position]*  
-*[Email Address]*  
-*[Phone Number]*  
-*[Date]*
+*SensorNet*  
+*Randall Morgan*  
+*SE/EE*  
+*rmorgan@sneornet.us*   
+*Oct. 14th, 2023*
