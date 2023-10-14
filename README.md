@@ -8,6 +8,15 @@ part of your development experience. Incorporating multiple AI agents to support
 including, specifications, architecture, design, coding, debugging, testing, verification, and documentation
 of your projects. From the ground up Sage employs AI agents to aid in the development process.
 
-Sage IDE is a conceptual design and proof of concept. It is built using Python and PyQT. Currently this project
-is still in the design/developmental phase and questions and comments are encouraged.
-Please use the Issue page and prefix your comment or suggestion with 
+Sage IDE is a conceptual design and proof of concept. It is built using Python and PyQT. Currently, this project
+is still in the design/developmental phase and questions and comments are encouraged. 
+
+To comment please see:
+   ## RFC Process:
+   - [RFC Process](RFC/RFC_PROCESS.md) 
+   ## RFC Template:
+   - [RFC Template](RFC/RFC_TEMPLATE.md)
+
+## Conduct Violations
+If you experience or witness any behavior that violates this Code of Conduct, please report it promptly to the project 
+maintainers at [contact us](mailto:sageide@sensornet.us).
