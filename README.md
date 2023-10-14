@@ -9,4 +9,5 @@ including, specifications, architecture, design, coding, debugging, testing, ver
 of your projects. From the ground up Sage employs AI agents to aid in the development process.
 
 Sage IDE is a conceptual design and proof of concept. It is built using Python and PyQT. Currently this project
-is still in the design/developmental phase and questions and comments are encouraged. 
+is still in the design/developmental phase and questions and comments are encouraged.
+Please use the Issue page and prefix your comment or suggestion with 
