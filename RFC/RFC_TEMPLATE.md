@@ -32,7 +32,3 @@ List any unresolved questions or issues related to this RFC. What aspects of the
 ## References
 
 Provide links to related issues, pull requests, documentation, or external resources that are relevant to this RFC.
-
----
-
-Feel free to adjust the sections and content based on the specific needs of your project. Encourage contributors to use this template when creating new RFCs to ensure consistency and clarity across proposals.

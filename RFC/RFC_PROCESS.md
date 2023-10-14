@@ -23,7 +23,7 @@
 3. **Iteration:**
    Be open to iterating on the RFC based on feedback. Contributors might have valuable insights that can improve the proposal.
 
-### Step 4: Finalize and Implement
+### Step 3: Finalize and Implement
 
 1. **Consensus:**
    Work towards building a consensus within the community. RFCs often require discussions and sometimes modifications to reach a consensus among contributors.
@@ -32,6 +32,4 @@
    Once there is a consensus, the RFC can be implemented. Depending on the nature of the RFC, this might involve code changes, documentation updates, or other project-related tasks.
 
  **Code of Conduct:**
-  Ensure that discussions around RFCs adhere to the project's code of conduct. Respectful and constructive communication is crucial for a healthy open-source community.
-
-By following these steps, you can effectively add an RFC to your GitHub project, fostering collaboration and decision-making within your development community.
+  Ensure that discussions about RFCs adhere to the project's code of conduct. Respectful and constructive communication is crucial for a healthy open-source community.
