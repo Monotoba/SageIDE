@@ -17,6 +17,10 @@ To comment please see:
    ## RFC Template:
    - [RFC Template](RFC/RFC_TEMPLATE.md)
 
+## Design & Implementation:
+Information on the design and implementation of Sage IDE POC can be found here:
+  - [Preliminary Design Overview](docs/design-overview.md)
+
 ## Conduct Violations
 If you experience or witness any behavior that violates this Code of Conduct, please report it promptly to the project 
 maintainers at [contact us](mailto:sageide@sensornet.us).
