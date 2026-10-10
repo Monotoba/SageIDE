@@ -23,7 +23,7 @@ We, the contributors and maintainers of the Sage IDE project, pledge to foster a
    Respect the privacy and confidentiality of others. Do not share private or personal information without consent.
 
 ### 6. **Reporting Violations:**
-   If you experience or witness any behavior that violates this Code of Conduct, please report it promptly to the project maintainers at [contact@example.com]. All reports will be kept confidential.
+   If you experience or witness any behavior that violates this Code of Conduct, please report it promptly to the project maintainers at [sageide@sensornet.us](mailto:sageide@sensornet.us). All reports will be kept confidential.
 
 ## Discussions over RFCs (Request for Comments)
 

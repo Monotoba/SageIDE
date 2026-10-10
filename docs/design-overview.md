@@ -1,3 +1,5 @@
+> **Status: historical design proposal (2023), not an implementation description.** This repository contains no runnable IDE or implemented plugins, AI integrations, test suite, or installers. The present-tense claims below describe intended behavior; they have not been validated. Named third-party tools are candidates, and their current interfaces and licenses must be reviewed before adoption. See the [prototype roadmap](ROADMAP.md) for the proposed first milestone.
+
 ## Preliminary Draft:
 Version: 0.0.1
 
